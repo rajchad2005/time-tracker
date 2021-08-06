@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good Morning aNd Night too Students!!!
+Good Morning and Good Night too Students!!!
